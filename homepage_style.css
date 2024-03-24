@@ -102,6 +102,7 @@ body{
 }
 
 .social-links {
+    margin-top: 5%;
     flex-direction: column;
     margin-right: 2%; /* Adjust space between social links and the bio */
     display: flex; /* Stack the logos vertically */

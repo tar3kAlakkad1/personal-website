@@ -107,6 +107,27 @@ body{
     margin-right: 2%; /* Add some space between the text and the image */
 }
 
+.personal_agent_project{
+    margin-top: 0;
+    font-family:  system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 15%;
+}
+
+.personal_agent_project p{
+    margin-right: 5%;
+    font-size: 18px;
+}
+
+.personal_agent_project .skills_container{
+    display: inline-flex;
+    align-items: center;
+    margin: 0;
+}
+
+.personal_agent_project .skills_container span{
+    margin: 0;
+}
+
 @media (max-width: 600px) {
     .navbar a {
         font-size: 16px; /* Adjust the font size for small screens */
